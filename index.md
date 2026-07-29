@@ -2,7 +2,9 @@
 layout: home
 comments: false
 ---
-Poetry by a man too afraid to be sincere. Posts infrequent. Hoping to write something meaningful.
+Poetry by a man too afraid to be sincere. Posts infrequent. Hoping to write something meaningful. Submissions welcome.
+
+Contact: [Email](mailto:cassius.l.jones@atomicmail.io)
 
 ### License
 All content on this site falls under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. Please click the hyperlink for more information.
