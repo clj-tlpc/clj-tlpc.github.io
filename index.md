@@ -2,7 +2,6 @@
 layout: home
 comments: false
 ---
-### About
 Poetry by a man too afraid to be sincere. Posts infrequent. Hoping to write something meaningful.
 
 ### License
