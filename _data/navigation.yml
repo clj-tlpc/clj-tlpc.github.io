@@ -16,4 +16,4 @@ main:
   - title: "Feed"
     url: /feed.xml
   - title: "Email"
-    url: <a href="mailto:cassius.l.jones@atomicmail.io">Email</a>
+    url: <a href="mailto:cassius.l.jones@atomicmail.io"></a>
