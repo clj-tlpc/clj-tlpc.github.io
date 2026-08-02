@@ -1,6 +1,7 @@
 ---
 title: Arachnophobia
 ---
+<pre>
         feed the      
 I                spider     
                 of     
@@ -37,3 +38,4 @@ ripping the                      I need to survive.
                 cency      
 I                spider.     
         kill the                       
+</pre>
