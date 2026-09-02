@@ -5,8 +5,8 @@ title: About
 
 {{ content }}
 
-<h1 class="page__title">Recent Poems</h1>
+<h1 class="page__title">Most Recent Poem</h1>
 
-{% for post in site.poetry | reverse | limit:3 %}
+{% for post in site.poetry limit:1 %}
   {% include post-entry.html %}
 {% endfor %}
